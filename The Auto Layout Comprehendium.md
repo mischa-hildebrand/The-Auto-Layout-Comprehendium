@@ -1,5 +1,5 @@
 # The Auto Layout Comprehendium™️
-###A Comprehensive Explanation of the iOS and macOS Layout System
+### A Comprehensive Explanation of the iOS and macOS Layout System
 
 ---
 
