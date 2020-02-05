@@ -1,8 +1,9 @@
 # The Auto Layout Comprehendium™
 ### A Comprehensive Explanation of the iOS and macOS Layout System
 
----
+![Title Image](https://miro.medium.com/max/1616/1*0Tny77rI3WxvIaZIFrayIg.png)
 
+---
 
 Auto Layout is essential for creating modern, responsive user interfaces on iOS and macOS. Its core idea is easy to grasp – yet, it feels like a jungle full of hidden secrets to many. Once you dive a little deeper into the topic, you will discover that there is much more below the simple surface. The Auto Layout Comprehendium™ is intended as a compendium for you to look up certain topics and to fully understand the internal mechanics behind the technology. While following an intuitive approach, it will help you master Auto Layout at a deeper level and empower you to build adaptable layouts without conflicts or ambiguities.
 
