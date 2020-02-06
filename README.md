@@ -308,7 +308,7 @@ That’s why in reality the intrinsic content size (for one dimension) is repres
 
 The first constraint (with the >= sign) is called **compression resistance** because it says that the view’s width should not be smaller than its intrinsic content width.
 
-The second constraint (with the <= sign) is called **content hugging** because it says that the view’s width should be greater than its intrinsic content width.
+The second constraint (with the <= sign) is called **content hugging** because it says that the view’s width should not be greater than its intrinsic content width.
 
 These names make sense because effectively, the first constraint is “pushing” the view’s bounds from the inside and thus counteracts any attempt to compress it whereas the second constraint is pulling the view’s bounds towards its center as if it were hugging its content.
 
